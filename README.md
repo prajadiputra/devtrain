@@ -1,0 +1,2 @@
+# devtrain
+aotomate git
